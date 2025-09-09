@@ -1,2 +1,6 @@
 # Java-School-Projects
-Projects I did for classes. One showing my ability to work with SQL databases and the other showcasing simple java GUI knowledge
+Class Projects Highlighting Technical Skills:
+
+SQL Database Project: Designed and implemented a relational database and functional calls of the SQL database from the java program.
+
+Java GUI Application: Built an interactive Java application with a graphical user interface, showcasing event handling, layout management, and user interaction.
