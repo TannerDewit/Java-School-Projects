@@ -5,4 +5,4 @@ SQL Database Project: Designed and implemented a relational database and functio
 
 Java GUI Application: Built an interactive Java application with a graphical user interface, showcasing event handling, layout management, and user interaction.
 
-Miscellaneous Projects from Data Structures are also added
+Final Project from Data Structures: Utilizes hash tables to order countries by their name.
